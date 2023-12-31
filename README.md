@@ -16,7 +16,7 @@ Make sure you have the following prerequisites installed:
 ### Installation
 1. Clone the Timmy repository to your local machine:
    ```bash
-   git clone https://github.com/JoelDJ2002/timmy.git
+   git clone https://github.com/JoelDJ2002/Timmy.git
   
    ```
 
