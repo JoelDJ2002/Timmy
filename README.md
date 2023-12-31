@@ -1,8 +1,8 @@
-# Timmy: AI Dataset Analyzer
+# Timmy: AI Dataset Destroyer
 
 ![Timmy Logo](Designer.jpeg)
 
-Timmy is an AI-powered dataset analyzer designed to streamline the process of analyzing and understanding datasets. With Timmy, you can quickly gain insights into your data, identify patterns, and make informed decisions. This README file provides a comprehensive guide on how to set up Timmy and run the application for Exploratory Data Analysis (EDA).
+Timmy is an AI-powered dataset analyzer designed to streamline the process of analyzing and understanding datasets. With Timmy, you can quickly gain insights into your data, identify patterns, and make informed decisions.
 
 
 
